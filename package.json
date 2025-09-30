@@ -1,7 +1,7 @@
 ﻿{
   "name": "meta-f0xlt",
   "version": "1.0.0",
-  "description": "Auto-generated repo for DX farming",
+  "description": "Auto-generated repo for DX farming",fndndfn
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
